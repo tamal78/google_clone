@@ -1,7 +1,7 @@
 ````
 # Google Homepage Clone Structure
 
-This document outlines the structure and key components of the Google Homepage Clone project.
+###  Though i have a solid foundation in HTML,CSS,JS but since React and Next is the standard in modern web so used that for this assignment.
 
 ## Project Directory Structure
 

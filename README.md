@@ -1,7 +1,7 @@
+###  Though i have a solid foundation in HTML,CSS,JS but since React and Next is the standard in modern web so used that for this assignment.
 ````
 # Google Homepage Clone Structure
 
-###  Though i have a solid foundation in HTML,CSS,JS but since React and Next is the standard in modern web so used that for this assignment.
 
 ## Project Directory Structure
 

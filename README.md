@@ -96,7 +96,7 @@ This document provides a high-level overview of the implementation of the Google
    - The `.env` file contains necessary configuration details, such as the API key for the Google Custom Search JSON API.
    - `config.js` can be used to manage other configuration settings that might be required for different environments (development, production, etc.).
   
-![Search Functionality](https://github.com/tamal78/google_clone/blob/main/public/Screenshot%20(82).png)
+![Search Functionality](https://github.com/tamal78/google_clone/blob/main/public/Screenshot%20(82).png "ss")
 
 
 ## Conclusion
